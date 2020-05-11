@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PetClinic Suite">
+    <test name="petclinic test">
+        <classes>
+            <class name="selenium.automation.test.PetClinicTest"></class>
+        </classes>
+    </test>
+</suite>
