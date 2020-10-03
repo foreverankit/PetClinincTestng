@@ -30,7 +30,7 @@ public class PetClinicTest {
   public void setUp() throws Exception {
     System.setProperty("webdriver.chrome.driver", chromeDriverPath);
     ChromeOptions options = new ChromeOptions();
-    //options.addArguments("--headless");
+    options.addArguments("--headless");
     options.setBinary("/usr/bin/google-chrome");
     driver = new ChromeDriver(options);
     //System.setProperty("webdriver.chrome.driver",chromeDriverPath);
