@@ -45,6 +45,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>suites/petclinic.xml</suiteXmlFile>
+                        <suiteXmlFile>suites/test.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

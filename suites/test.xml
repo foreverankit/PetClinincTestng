@@ -2,8 +2,8 @@
 <suite name="PetClinic Suite">
     <test name="petclinic test">
         <classes>
-            <class name="selenium.automation.test.PetClinicTest"></class>
-            <class name="selenium.automation.test.SampleTest"></class>
+            <class name="selenium.automation.test.FirstTest"></class>
+            <class name="selenium.automation.test.SecondTest"></class>
         </classes>
     </test>
 </suite>
